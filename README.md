@@ -2,11 +2,11 @@
 
 Este é um sistema imobiliário desenvolvido em PHP para gerenciamento de imóveis. Ele é uma aplicação web simples, que permite ao usuário cadastrar imóveis, visualizar informações, realizar vendas de forma simples e facil. Meu principal objetivo foi sanar a minha curiosidade de aprender um pouco sobre PHP e utilizar esse conhecimento para criar um sistema que seja funcional.
 
-Link para o site estático do programa: 
 
 ![2023-05-01 14-45-47](https://user-images.githubusercontent.com/94726621/235501336-3757e056-19f3-4398-97a2-443142f7fd87.gif)
 
-Requisitos
+
+#Requisitos
 Para utilizar este sistema, você precisará ter os seguintes requisitos instalados em seu computador:
 
 PHP 7 ou superior
