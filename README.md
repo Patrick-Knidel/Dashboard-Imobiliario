@@ -27,6 +27,7 @@ Utilização
 Ao acessar o Dashboard Imobiliário, você verá uma tela de login. Para acessar o sistema, utilize as seguintes credenciais:
 
 Usuário: admin
+
 Senha: admin
 
 Após fazer login, você verá o painel de controle do sistema, onde poderá gerenciar os imóveis. O sistema permite cadastrar novos imóveis, visualizar informações sobre os imóveis cadastrados e realizar vendas atribuindo aos seus respectivos funcionários que atuaram no ato.
