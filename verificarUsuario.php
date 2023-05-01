@@ -14,7 +14,7 @@
   if($teste == 1){
     if($senhadb == $senha){
       $_SESSION['usuario'] = $usuario;
-      header("Location: index.php");
+      header("Location: home.php");
     }else{
       header("Location: login.php?id=2");
     }
