@@ -6,7 +6,7 @@ Este é um sistema imobiliário desenvolvido em PHP para gerenciamento de imóve
 ![2023-05-01 14-45-47](https://user-images.githubusercontent.com/94726621/235501336-3757e056-19f3-4398-97a2-443142f7fd87.gif)
 
 
-#Requisitos
+Requisitos
 Para utilizar este sistema, você precisará ter os seguintes requisitos instalados em seu computador:
 
 PHP 7 ou superior
